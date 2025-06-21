@@ -4,7 +4,7 @@ AryanCoder is a locally running code teaching assistant powered by [Ollama](http
 
 ---
 
-## 🚀 Features
+## 🚀 Features------------------
 
 - Uses locally running CodeLlama model through Ollama
 - Simple chat UI built with Gradio
