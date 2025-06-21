@@ -1,0 +1,10 @@
+venv
+venv/
+.env
+/env
+
+.env
+env/
+.env
+env/
+venv/
