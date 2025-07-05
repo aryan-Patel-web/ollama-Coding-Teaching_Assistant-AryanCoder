@@ -1,4 +1,4 @@
-# AryanCoder - Code Teaching Assistant 🤖💡
+# 💡AryanCoder - Code Teaching Assistant 🤖
 
 AryanCoder is a locally running code teaching assistant powered by [Ollama](https://ollama.com), [CodeLlama](https://ai.meta.com/llama/), and [Gradio](https://www.gradio.app/). This assistant is designed to help users learn and understand programming with concise explanations and example code.
 
@@ -53,7 +53,9 @@ ollama create aryancoder -f Modelfile
 ollama run aryancoder
 
 
+
 🧠 Example Prompts
+
 "Explain recursion with code."
 
 "What is the difference between a list and a tuple in Python?"
