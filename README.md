@@ -23,6 +23,17 @@ pip install requests gradio
 - [Ollama](https://ollama.com) installed and running
 - Model built with:
 
+---
+
+## ✅ requirements.txt
+
+Here’s your minimal requirements list:
+
+```txt
+gradio
+requests
+
+
 # step - 1
 Modelfile:
 FROM codellama
@@ -49,3 +60,14 @@ ollama run aryancoder
 
 "Write a function to check for a prime number."
 
+👨‍💻 Author
+Aryan Patel
+
+🚀 Future Enhancements
+Add support for streaming responses
+
+Enable multiple model selection from UI
+
+Save chat conversations to disk
+
+Deploy Gradio app online via Hugging Face Spaces or similar
