@@ -62,10 +62,14 @@ ollama run aryancoder
 
 "Write a function to check for a prime number."
 
+
 👨‍💻 Author
+
 Aryan Patel
 
+
 🚀 Future Enhancements
+
 Add support for streaming responses
 
 Enable multiple model selection from UI
